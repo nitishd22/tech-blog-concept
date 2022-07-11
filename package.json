@@ -16,7 +16,7 @@
     "seed": "node seeds/index.js"
   },
   "name": "tech-blog-concept",
-  "description": "",
+  "description": "This is a concept of a tech blog that I've created in order to use MVC. Users can make accounts, post, and comment on posts. They also can delete any post or comment.",
   "version": "1.0.0",
   "main": "server.js",
   "repository": {
@@ -28,5 +28,6 @@
   "bugs": {
     "url": "https://github.com/nitishd22/tech-blog-concept/issues"
   },
-  "homepage": "https://github.com/nitishd22/tech-blog-concept#readme"
+  "homepage": "https://github.com/nitishd22/tech-blog-concept#readme",
+  "devDependencies": {}
 }
